@@ -1,0 +1,5 @@
+Matrix is one base framwork of c++
+
+It provides a general-purpose programming components, 
+such as conversion, string handling, stack trace,
+timer engine, message queues, keyboard and mouse input processing, etc.
